@@ -2,7 +2,7 @@ import telebot # Import pyTelegramBotAPI
 import datetime
 import time
 
-tele_bot = telebot.TeleBot('628773197:AAH5uqFXv4h09N91kuAisU0VcolDnqlMVWY') # Token bot
+tele_bot = telebot.TeleBot('token') # Token bot
 
 dictio_diary = {} # Membuat dictionary diary
 
